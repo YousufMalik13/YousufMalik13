@@ -1,5 +1,3 @@
-<img src="https://codecondo.com/wp-content/uploads/2017/09/What-is-back-end-development.jpg" width="100%">
-
 
 <h1 align="center">Hi 👋, I'm Malik Yousuf Aamir</h1>
 <h3 align="center">An Honest & humbeled citizen from Pakistan</h3>
