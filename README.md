@@ -1,12 +1,9 @@
-<img src="" width="100%">
+<img src="https://codecondo.com/wp-content/uploads/2017/09/What-is-back-end-development.jpg" width="100%">
 
 
 <h1 align="center">Hi 👋, I'm Malik Yousuf Aamir</h1>
 <h3 align="center">An Honest & humbeled citizen from Pakistan</h3>
 <img align="right" alt="coding" width="400" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112">
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nimra-mughal&label=Profile%20views&color=0e75b6&style=flat" alt="nimra-mughal" /> </p>
 
 - 🌱 I’m currently learning Full-Stack Development
 
