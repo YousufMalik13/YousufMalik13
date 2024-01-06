@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Malik Yousuf Aamir</h1>
 <h3 align="center">An Honest & humbeled citizen from Pakistan</h3>
-<img align="right" alt="coding" width="400" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112">
+<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRXCNPbRCeMO1xoSfGhZNiu5TSKMNpYk1ldajDhcc7LYHECR2i4pVpEGDHoKoLTOHn5fg&usqp=CAU">
 
 - 🌱 I’m currently learning Full-Stack Development
 
